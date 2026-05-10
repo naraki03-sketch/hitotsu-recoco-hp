@@ -1,0 +1,4 @@
+.DS_Store
+.netlify/
+.smtcmp_json_db/
+node_modules/
